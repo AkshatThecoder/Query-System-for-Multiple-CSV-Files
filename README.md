@@ -53,7 +53,9 @@ Users can upload CSV files and ask **plain English questions**, which are dynami
 ### 2️⃣ Ask questions like:
 
 ```"Show the first 10 rows of the dataset."```
+
 ```"What is the average price of cars by make?"```
+
 ```"Create a histogram of car prices."```
 
 ### 3️⃣ View results & insights instantly!
@@ -65,6 +67,5 @@ Users can upload CSV files and ask **plain English questions**, which are dynami
 ### ✅ Improved query parsing for complex operations.
 ### ✅ Enhanced data visualizations with Matplotlib and Seaborn.
 
-📝 License
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
  
