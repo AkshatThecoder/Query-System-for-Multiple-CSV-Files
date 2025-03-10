@@ -60,6 +60,12 @@ Users can upload CSV files and ask **plain English questions**, which are dynami
 
 ### 3️⃣ View results & insights instantly!
 
+## the app.py is deployed on streamlit 
+
+### Below is the link check it out:
+
+```https://query-system-for-multiple-csv-files.streamlit.app/```
+
 
 ## 📌 Future Enhancements
 
