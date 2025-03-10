@@ -30,7 +30,9 @@ Users can upload CSV files and ask **plain English questions**, which are dynami
 ### 2️⃣ Create a virtual environment
 
 ```python -m venv venv```
+
 ```source venv/bin/activate   # On macOS/Linux```
+
 ```venv\Scripts\activate      # On Windows```
 
 ### 4️⃣ Set up environment variables
